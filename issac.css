@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+    background-color: grey;
+    margin: 0%;
+}
+.menu{
+    position: fixed;
+    background-color: rgb(73, 70, 70);
+    width: 100%;
+    margin-top: 0;
+}
+.links{
+   display:inline;
+   padding: 30px;
+   font-size: 20px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color:goldenrod;
+    text-decoration:none;
+    text-shadow: 2px 2px 2px black;
+}
+.links:hover{
+    font-size: 20px;
+    text-decoration: underline;
+}
+html{
+    scroll-behavior: smooth;
+}
+#one{
+    background: linear-gradient(grey, red);
+    color: midnightblue;
+}
+#two{
+    text-decoration: underline;
+    font-size: 30px;
+}
+#profile{
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    margin-top: 50px;
+}
+#three{
+    font-size: 50px;
+}
+#five{
+    font-size: 20px;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#six{
+    font-size: 20px;
+    text-decoration: underline;
+    
+}
+#seven h3{
+    display: inline;
+    padding: 10px;
+}
